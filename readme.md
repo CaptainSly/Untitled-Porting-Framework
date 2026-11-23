@@ -81,3 +81,7 @@ Run `./upf-core/build/install/<appname>/bin/<appname>`
 **Q:** Does this work on Windows or Mac?
 
 **A:** Windows maybe, the windows natives need to be included in the `build.gradle.kts` for `upf-core`, Mac? No. The Engine is hardcoded for OpenGL 4.6.
+
+# Projects Utilizing UPF
+
+- [Mitochondrial Engine](https://github.com/CaptainSly/Mitochondrial-Engine)
